@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me 👋
+
+평범한 LLM 초보 사용자.  
+꼼지락거리기를 좋아합니다. 😜  
+
+📫 winterrain.lee@icloud.com
 
 <!--
 **winterrainlee/winterrainlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
