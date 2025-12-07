@@ -11,4 +11,4 @@
 - 겨울비 논문읽기
 - 프롬프트 실험실
 ### Turn-based Text Role Playing Game
-- 겨울비RPG
+- 겨울비RPG (https://github.com/winterrainlee/winterrain_trpg)
